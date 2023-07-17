@@ -1,2 +1,1 @@
-www.osscom
-#oss.com
+https://www.oss.com
